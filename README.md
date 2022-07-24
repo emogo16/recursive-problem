@@ -2,8 +2,6 @@
 
 #### This is a Template for a web environment
 
-#### By Rosie Gardner
-
 ## Technologies Used
 
 * JavaScript
@@ -28,9 +26,3 @@
 ## License
 
 MIT
-
-Copyright (c) 2022 Rosie Gardner
-
-## Contact Information
-
-* Email: rosiegardner78@gmail.com
